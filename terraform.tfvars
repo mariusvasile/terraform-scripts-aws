@@ -1,0 +1,16 @@
+account_id                  = ""
+environment                 = "dev"
+team                        = "test"
+global_repository           = ".dkr.ecr.eu-west-2.amazonaws.com"
+example_instance_type       = "t2.medium"
+example_max_size            = 1
+example_min_size            = 1
+example_desired_capacity    = 1
+example_container_port      = 443
+example_host_port           = 0
+example_container_protocol  = "tcp"
+example_memoryReservation   = 3072
+example_repository          = "test-example-dev"
+example_cpu                 = 1024
+aws_region                  = "eu-west-2"
+path                        = "/"
